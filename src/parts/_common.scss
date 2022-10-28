@@ -1,0 +1,23 @@
+@use "../globals" as *;
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Kameron', 'Noto Sans JP', sans-serif;
+}
+
+html,
+body {
+  overflow: hidden;
+  color: $cWhite;
+}
+
+img {
+  max-width: 100%;
+}
+
+.content-width {
+  width: 90%;
+  margin: 0 auto;
+  max-width: $contentMaxWidth;
+}
