@@ -5,7 +5,7 @@ import * as dat from "lil-gui";
 import vertexShader from "./shaders/vertexShader";
 import fragmentShader from "./shaders/fragmentShader";
 
-import skyImage from "./textures/naturalsky.jpg";
+import skyImage from "./textures/sunsky.jpg";
 // import skyImage from "./textures/darksky.jpg";
 // import skyImage from "./textures/sky.jpg";
 
